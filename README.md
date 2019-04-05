@@ -1,7 +1,7 @@
 # CalculadoraSubProgramacao
 Trabalho POO
 
-Calculadora que forneçe as seguintes opções para o
+Calculadora que fornece as seguintes opções para o
 usuário, usando métodos sempre que possível
 
 Estado da memória: 0
