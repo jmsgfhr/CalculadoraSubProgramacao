@@ -42,7 +42,7 @@ public class CalculadoraSubProgramacao {
                    menucalc(0);
                    break;
                case 6:
-                   System.out.println("Muito obrigado por usar o programa :hangloose:");
+                   System.out.println("Muito obrigado por usar o programa (:hangloose:)");
                    System.exit(0);
            }
        }else
